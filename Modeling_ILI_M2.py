@@ -24,7 +24,7 @@ virus_palette = {
 # ============================================================
 # 1. Load and preprocess data
 # ============================================================
-file_path = "/Users/allennazareno/Documents/flu_rsv.xlsx"
+file_path = ""your/local/path/flu_rsv.xlsx""
 df = pd.read_excel(file_path, sheet_name="Sheet1")
 df.columns = df.columns.str.strip()
 
