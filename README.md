@@ -1,4 +1,4 @@
-# Modeling Influenza and RSV-attributable ILI Repository
+# Modeling Influenza- and RSV-attributable ILI Repository
 
 This repository contains the dataset and Python programs used in the analysis of influenza-like illness (ILI) attributable to influenza and respiratory syncytial virus (RSV).
 
